@@ -38,3 +38,21 @@ h1 {
     height: 450px;
     width: 2px;
 }
+.big {
+    visibility: hidden;
+}
+.dropdown {
+    visibility: visible;
+}
+
+@media only screen and (max-width: 400px) {
+
+    .big{
+        visibility: visible;
+    }
+    .dropdown{
+        visibility: hidden;
+    }
+    
+}
+    
