@@ -39,7 +39,7 @@ h1 {
     width: 2px;
 }
 .big {
-    visibility: hidden;
+    visibility: visible;
 }
 .dropdown {
     visibility: visible;
@@ -48,7 +48,7 @@ h1 {
 @media only screen and (max-width: 400px) {
 
     .big{
-        visibility: visible;
+        visibility: hidden;
     }
     .dropdown{
         visibility: hidden;
