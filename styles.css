@@ -201,7 +201,7 @@ h3 {
   font-family: 'Caveat', cursive;
   text-align: center;
   padding: 10px;
-  height:40px;
+  height: 40px;
 }
 
 .footer {
@@ -232,29 +232,20 @@ h3 {
   background-color: #000000;
 }
 
-  .textabout {
-    color: #ffffff;
-    position: relative;
-    width: 100%;
-    height: 100%;
-    top: 0;
-    left: 0;
-    text-align: center;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    
-  }
-  .qw {
-    color: #000000;
-    position: relative;
-    width: 100%;
-    height: 100%;
-    top: 0;
-    left: 0;
-    text-align: center;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-   
-  }
+.textabout {
+  color: #ffffff;
+  position: relative;
+  font-family: 'Caveat', cursive;
+  font-size: 2rem;
+  text-align: center;
+
+}
+
+.qw {
+  color: #000000;
+  position: relative;
+  text-align: center;
+  align-items: center;
+  font-size: 4rem;
+  font-family: 'Caveat', cursive;
+}
