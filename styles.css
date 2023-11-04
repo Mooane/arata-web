@@ -105,6 +105,7 @@ h4 {
   transition: --num 4s;
   counter-set: num var(--num);
   font: 800 40px system-ui;
+
 }
 
 
@@ -182,6 +183,7 @@ h4 {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  margin: 10px;
 
 }
 
