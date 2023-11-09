@@ -88,8 +88,10 @@ h4 {
 
 }
 
-
-.h1 {
+p {
+  color: #181717;
+}
+h1 {
 
   color: #000000;
   font-size: 8rem;
@@ -200,7 +202,7 @@ h3 {
 
 .mailto {
   color: #ffffff;
-  font-family: 'Caveat', cursive;
+  font-family:'Times New Roman', Times, serif;
   text-align: center;
   padding: 10px;
   height: 40px;
@@ -244,10 +246,13 @@ h3 {
 }
 
 .qw {
-  color: #000000;
+  color: #087c95;
   position: relative;
   text-align: center;
   align-items: center;
   font-size: 4rem;
   font-family: 'Caveat', cursive;
 }
+
+
+
