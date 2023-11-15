@@ -61,6 +61,7 @@ body {
   background-color: #f4f6fb;
 }
 
+
 .dropdown:hover .dropdown-content {
   display: block;
 }
@@ -70,7 +71,7 @@ body {
   width: 0;
 }
 .ourcompanies {
-  color: #ffffff;
+  color: #000000;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -101,7 +102,7 @@ h1 {
   right: 50%;
   top: 100%;
   padding: 50px;
-  background-color: rgb(48, 91, 115);
+
   color: #ffffff;
   border-radius: 20px;
   transition: --num 4s;
@@ -119,7 +120,7 @@ h1 {
   right: 50%;
   top: 100%;
   padding: 50px;
-  background-color: rgb(48, 91, 115);
+ 
   color: #ffffff;
   border-radius: 20px;
   transition: --num 4s;
@@ -136,7 +137,7 @@ h1 {
   right: 50%;
   top: 100%;
   padding: 50px;
-  background-color: rgb(48, 91, 115);
+
   color: #ffffff;
   border-radius: 20px;
   transition: --num 4s;
@@ -153,7 +154,7 @@ h1 {
   right: 50%;
   top: 100%;
   padding: 50px;
-  background-color: rgb(48, 91, 115);
+
   color: #ffffff;
   border-radius: 20px;
   transition: --num 4s;
